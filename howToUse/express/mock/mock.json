@@ -1,0 +1,9 @@
+[
+  {
+    "path": "/example/things",
+    "enable": {
+      "POST": true,
+      "GET": false
+    }
+  }
+]
